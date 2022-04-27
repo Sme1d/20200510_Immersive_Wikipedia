@@ -1,0 +1,17 @@
+<<<<<<< HEAD:Assets/Resources/FirstPersonPlayer.prefab.meta
+fileFormatVersion: 2
+guid: d08e635fcd83efd4499d182fd09b01e1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+=======
+fileFormatVersion: 2
+guid: 3be9b838727e3b442b0f0281219238a7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> develop:Assets/First Person .prefab.meta
